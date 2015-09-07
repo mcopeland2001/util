@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite 
+errors="0" failures="0" hostname="ReCo-PC" name="org.scalatest.tools.DiscoverySuite" tests="0" time="0.038" timestamp="2015-08-20T15:27:00">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment">
+    </property>
+    <property 
+    name="sun.boot.library.path" value="C:\Program Files\Java\jre7\bin">
+</property>
+    <property name="java.vm.version" value="24.79-b02"> </property>
+    <property name="java.vm.vendor" value="Oracle Corporation"> </property>
+    <property name="java.vendor.url" value="http://java.oracle.com/">
+    </property>
+    <property name="path.separator" value=";"> </property>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM">
+    </property>
+    <property name="file.encoding.pkg" value="sun.io"> </property>
+    <property name="user.script" value=""> </property>
+    <property name="user.country" value="GB"> </property>
+    <property name="sun.java.launcher" value="SUN_STANDARD"> </property>
+    <property name="sun.os.patch.level" value="Service Pack 1"> </property>
+    <property 
+    name="java.vm.specification.name" value="Java Virtual Machine Specification">
+</property>
+    <property name="user.dir" value="D:\Projects\utils\scalautils"> </property>
+    <property name="java.runtime.version" value="1.7.0_79-b15"> </property>
+    <property 
+    name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment">
+</property>
+    <property name="basedir" value="D:\Projects\utils\scalautils"> </property>
+    <property 
+    name="java.endorsed.dirs" value="C:\Program Files\Java\jre7\lib\endorsed">
+</property>
+    <property name="os.arch" value="amd64"> </property>
+    <property name="java.io.tmpdir" value="C:\Users\Mike\AppData\Local\Temp\">
+    </property>
+    <property name="line.separator" value=" "> </property>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation">
+    </property>
+    <property name="user.variant" value=""> </property>
+    <property name="os.name" value="Windows 7"> </property>
+    <property name="sun.jnu.encoding" value="Cp1252"> </property>
+    <property 
+    name="java.library.path" value="C:\windows\system32;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 12.1.7\bin\..\.\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Broadcom\Broadcom 802.11 Network Adapter\Driver;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Skype\Phone\;c:\program files (x86)\jetbrains\intellij idea 12.1.7\jre\jre\bin;.">
+</property>
+    <property 
+    name="java.specification.name" value="Java Platform API Specification">
+</property>
+    <property name="java.class.version" value="51.0"> </property>
+    <property 
+    name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers">
+</property>
+    <property name="os.version" value="6.1"> </property>
+    <property name="user.home" value="C:\Users\Mike"> </property>
+    <property name="user.timezone" value=""> </property>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob">
+    </property>
+    <property name="file.encoding" value="UTF-8"> </property>
+    <property name="java.specification.version" value="1.7"> </property>
+    <property name="user.name" value="Mike"> </property>
+    <property 
+    name="java.class.path" value="D:\Projects\utils\scalautils\target\test-classes;D:\Projects\utils\scalautils\target\classes;C:\Users\Mike\.m2\repository\org\scala-lang\scala-library\2.10.1\scala-library-2.10.1.jar;C:\Users\Mike\.m2\repository\org\scala-lang\scala-reflect\2.10.1\scala-reflect-2.10.1.jar;C:\Users\Mike\.m2\repository\junit\junit\4.9\junit-4.9.jar;C:\Users\Mike\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;C:\Users\Mike\.m2\repository\org\scalatest\scalatest_2.10.0-RC5\2.0.M5-B1\scalatest_2.10.0-RC5-2.0.M5-B1.jar;C:\Users\Mike\.m2\repository\org\scalamock\scalamock-scalatest-support_2.10.0-RC5\3.0-M8\scalamock-scalatest-support_2.10.0-RC5-3.0-M8.jar;C:\Users\Mike\.m2\repository\org\scalamock\scalamock-core_2.10.0-RC5\3.0-M8\scalamock-core_2.10.0-RC5-3.0-M8.jar;C:\Users\Mike\.m2\repository\org\scalacheck\scalacheck_2.10.0-RC5\1.10.0\scalacheck_2.10.0-RC5-1.10.0.jar;C:\Users\Mike\.m2\repository\org\scala-tools\testing\test-interface\0.5\test-interface-0.5.jar;C:\Users\Mike\.m2\repository\org\scala-lang\scala-actors\2.10.0-RC5\scala-actors-2.10.0-RC5.jar">
+</property>
+    <property name="java.vm.specification.version" value="1.7"> </property>
+    <property name="sun.arch.data.model" value="64"> </property>
+    <property name="java.home" value="C:\Program Files\Java\jre7"> </property>
+    <property 
+    name="sun.java.command" value="org.scalatest.tools.Runner -p D:\Projects\utils\scalautils\target\classes D:\Projects\utils\scalautils\target\test-classes -oW -fWDF D:\Projects\utils\scalautils\target\surefire-reports\TestSuite.txt -u D:\Projects\utils\scalautils\target\surefire-reports\.">
+</property>
+    <property name="java.specification.vendor" value="Oracle Corporation">
+    </property>
+    <property name="user.language" value="en"> </property>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"> </property>
+    <property name="java.vm.info" value="mixed mode"> </property>
+    <property name="java.version" value="1.7.0_79"> </property>
+    <property 
+    name="java.ext.dirs" value="C:\Program Files\Java\jre7\lib\ext;C:\windows\Sun\Java\lib\ext">
+</property>
+    <property 
+    name="sun.boot.class.path" value="C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\sunrsasign.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\classes">
+</property>
+    <property name="java.vendor" value="Oracle Corporation"> </property>
+    <property name="file.separator" value="\"> </property>
+    <property 
+    name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/">
+</property>
+    <property name="sun.cpu.endian" value="little"> </property>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"> </property>
+    <property name="sun.desktop" value="windows"> </property>
+    <property name="sun.cpu.isalist" value="amd64"> </property>
+  </properties>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
